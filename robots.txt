@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bless-zaglago.vercel.app/sitemap.xml
