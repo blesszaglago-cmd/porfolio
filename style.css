@@ -4,7 +4,7 @@
   --surface: #fff;
   --ink: #162b2b;
   --soft: #4d6260;
-  --muted: #657672;
+  --muted: #5e7069;
   --line: #dce5df;
   --accent: #087b66;
   --accent-soft: #e5f1ea;
@@ -1286,4 +1286,11 @@ html[data-theme="dark"] .icon-button .moon {
     transition: none !important;
     animation: none !important;
   }
+}
+
+html[data-theme="dark"] .oracle {
+  color: #efaf99;
+}
+html[data-theme="dark"] .cloud {
+  color: #e7c086;
 }
